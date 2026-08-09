@@ -1,6 +1,6 @@
 ---
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 layout: single
 author_profile: true
 toc: true
@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: "Contents"
 ---
 
-[Download PDF]({{ site.baseurl }}/assets/cv.pdf){: .btn .btn--primary}
+[Download PDF]({{ site.baseurl }}/assets/resume.pdf){: .btn .btn--primary}
 
 ## Education
 

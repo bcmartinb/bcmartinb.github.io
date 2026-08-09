@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-I study how neural systems organize information across time, from circadian rhythms unfolding over days to the millisecond structure of a single action potential.
+I study how neural systems compute and organize information across time, from circadian rhythms unfolding over days to the millisecond structure of a single action potential.
 
 As an undergraduate at Smith College, working with Mary Harrington, I developed a non-invasive method for recording circadian bioluminescence from freely behaving mice using PER2::LUCIFERASE reporters, along with a computational pipeline for extracting rhythm parameters from the resulting time-series data, published in the *Journal of Biological Rhythms*.
 
@@ -11,4 +11,6 @@ I'm now a PhD candidate in Neurosciences at UC San Diego, co-mentored by Bradley
 
 Alongside that central question, I build analysis pipelines for high-density MEA recordings and organoid stimulation and recording protocols, including experiments on how psychedelics modulate network plasticity, and I study neuronal timescales as an organizing principle for how circuits integrate information across developmental stages.
 
-I'm defending in fall 2026, with my degree conferred that December. My [CV](/cv/) has full details on publications, presentations, and research experience.
+I moved from Spain to the United States to pursue research opportunities and an interdisciplinary curriculum. Outside the lab, I've danced since childhood and compete in ballroom, reaching the national semifinal level while in school.
+
+I'm defending in Fall 2026. My [resume](/resume/) has full details on publications, presentations, and research experience.
