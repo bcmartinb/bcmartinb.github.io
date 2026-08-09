@@ -15,13 +15,14 @@ $masthead-link-color: #fff !default;
 $masthead-link-color-hover: mix(#000, #fff, 15%) !default;
 $navicon-link-color-hover: mix(#000, $masthead-background-color, 15%) !default;
 
-.masthead {
-  background-color: $masthead-background-color;
+.masthead,
+.greedy-nav {
+  background: $masthead-background-color !important; // navigation partial loads after skin and sets its own background
 }
 
 .author__avatar img {
   max-width: 175px !important; // sidebar partial loads after skin and would otherwise reset this to 110px
-  border-color: $masthead-background-color !important; // sidebar partial loads after skin and sets border shorthand
+  border: 4px solid $masthead-background-color !important; // sidebar partial loads after skin and sets border shorthand
 }
 
 .page__footer {

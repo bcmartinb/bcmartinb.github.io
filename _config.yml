@@ -49,7 +49,6 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "PhD candidate in Neurosciences, UC San Diego"
   location         : "La Jolla, CA"
-  email            : "bcmartinb@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -60,6 +59,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=PNR9T_8AAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/blanca-martin-burgos-b0231a14"
 
 # Site Footer
 footer:
