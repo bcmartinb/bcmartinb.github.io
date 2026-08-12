@@ -1,0 +1,29 @@
+{
+  "name": "Jekyll",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2",
+  "postCreateCommand": "bundle install",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "davidanson.vscode-markdownlint",
+        "sissel.shopify-liquid",
+        "redhat.vscode-yaml"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "files.associations": {
+          "*.html": "liquid"
+        },
+        "[markdown]": {
+          "editor.defaultFormatter": "davidanson.vscode-markdownlint"
+        }
+      }
+    }
+  }
+}
