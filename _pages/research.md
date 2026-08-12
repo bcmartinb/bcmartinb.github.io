@@ -16,8 +16,7 @@ Action potentials are assumed to be binary in systems and cognitive neuroscience
 
 ---
 
-## Timescale Development
-### Neuronal timescales across development
+## Neuronal timescales across development
 
 ![Timescale development schematic](/assets/images/research/timescale-development.png)
 
@@ -27,8 +26,7 @@ Action potentials are assumed to be binary in systems and cognitive neuroscience
 
 ---
 
-## Brain Organoid MEA
-### Stimulation · High-density recording · Disease models
+## Human brain organoid MEA analysis methods
 
 ![Brain organoid MEA schematic](/assets/images/research/organoid-mea.png)
 
@@ -38,8 +36,7 @@ Collaborated on multiple projects, including new **high-density MEA recording pr
 
 ---
 
-## Circadian Biology
-### Bioluminescent recording in freely behaving animals
+## Computational analysis of in vivo circadian bioluminescence in freely behaving mice
 
 Developed a non-invasive method for recording circadian **bioluminescence** from freely behaving mice using **PER2::LUCIFERASE reporters**, along with a **computational pipeline** for extracting rhythm parameters from the resulting time-series data, as an undergraduate researcher. Four peer-reviewed publications; presented at SRBR and SfN.
 
