@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+<div class="research-card" markdown="1">
+
 ## SpikeWise
 ### Action potential waveforms are state-dependent
 
@@ -14,7 +16,9 @@ Action potentials are assumed to be binary in systems and cognitive neuroscience
 
 *Papers: in preparation — no link yet*
 
----
+</div>
+
+<div class="research-card" markdown="1">
 
 ## Neuronal timescales across development
 
@@ -24,7 +28,9 @@ Action potentials are assumed to be binary in systems and cognitive neuroscience
 
 *Paper: [Development of neuronal timescales in human cortical organoids and rat hippocampus dissociated cultures](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:IjCSPb-OGe4C), J Neurophysiol (2024)*
 
----
+</div>
+
+<div class="research-card" markdown="1">
 
 ## Human brain organoid MEA analysis methods
 
@@ -34,7 +40,9 @@ Built **analysis methods and pipelines** for **multi-electrode array (MEA)** rec
 
 Collaborated on multiple projects, including new **high-density MEA recording protocols** and **closed-loop systems** for organoids (manuscript in preparation), **electrical and optogenetic stimulation** protocols, **graphene-polymer nanofiber** organoid interfaces ([Biomaterials](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:Y0pCki6q_DkC)), **ketamine effects** in 3D human neuronal cultures ([Biological Psychiatry](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:zYLM7Y9cAGgC)), and the study of neurodevelopmental conditions, such as patient-derived organoids carrying a **MAOA/MAOB deletion** (manuscript in preparation).
 
----
+</div>
+
+<div class="research-card" markdown="1">
 
 ## Computational analysis of in vivo circadian bioluminescence in freely behaving mice
 
@@ -45,3 +53,5 @@ Developed a non-invasive method for recording circadian **bioluminescence** from
 - *[Deconstructing circadian disruption](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:u5HHmVD_uO8C) (2020)*
 - *[CIRCADA: Shiny apps for exploration of experimental and synthetic circadian time series](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:u-x6o8ySG0sC) (2020)*
 - *[Cell-Type-Specific Circadian Bioluminescence Rhythms in Dbp Reporter Mice](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:2osOgNQ5qMEC) (2022)*
+
+</div>
