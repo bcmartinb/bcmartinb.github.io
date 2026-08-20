@@ -11,6 +11,6 @@ I'm now a PhD candidate in Neurosciences at UC San Diego, co-mentored by Bradley
 
 Alongside that central question, I build analysis pipelines for high-density MEA recordings and organoid stimulation and recording protocols, including experiments on how psychedelics modulate network plasticity, and I study neuronal timescales as an organizing principle for how circuits integrate information across developmental stages.
 
-Outside of science, I've danced since childhood and compete in ballroom, reaching the national semifinal level.
+Outside the lab, I enjoy reading, learning languages, and working out. I've also danced since childhood and am currently a competitive ballroom dancer.
 
 I'm defending in Fall 2026. My [resume](/resume/) has full details on publications, presentations, and research experience.
