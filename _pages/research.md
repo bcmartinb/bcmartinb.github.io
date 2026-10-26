@@ -12,9 +12,9 @@ author_profile: true
 
 ![SpikeWise schematic](/assets/images/research/spikewise.png)
 
-Action potentials are assumed to be binary in systems and cognitive neuroscience: voltage waveforms reduced to a digital "1." This constrains neural codes to rate, temporal, and population signaling. **SpikeWise** is a package we developed to parameterize spikes directly: waveform shape is not random but **state dependent**, varying systematically with brain state (input and LFP) and influencing the shape and timing of the next spike. This points to a broader landscape of neural codes, where neurons communicate through waveform structure as well as timing. Two manuscripts from this work are in preparation; presented at SfN, FENS, and CNS.
+Action potentials are assumed to be binary in systems and cognitive neuroscience: voltage waveforms reduced to a digital "1." This constrains neural codes to rate, temporal, and population signaling. **SpikeWise** is a package we developed to parameterize spikes directly: waveform shape is not random but **state dependent**, varying systematically with brain state (input and LFP) and influencing the shape and timing of the next spike. This points to a broader landscape of neural codes, where neurons communicate through waveform structure as well as timing. One manuscript is available as a preprint and under review, and a second is in preparation; presented at SfN, FENS, and CNS.
 
-*Papers: in preparation — no link yet*
+*Preprint: [Action potential waveforms are state-dependent](https://doi.org/10.64898/2026.09.15.751814), bioRxiv (2026)*
 
 </div>
 
