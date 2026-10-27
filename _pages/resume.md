@@ -21,7 +21,7 @@ Graduated with Highest Honors.
 ## Positions
 
 **PhD Candidate Researcher**, UC San Diego — 2020–Present
-*Advisors: Bradley Voytek, Alysson Muotri*
+*Advisors: [Bradley Voytek](https://voyteklab.com/), Alysson Muotri*
 - Parameterized and modeled action potential waveform variability within single neurons, linking intracellular spike shape dynamics to extracellular oscillatory activity and brain state
 - Investigated neuronal timescales as an organizing principle of brain function, quantifying how circuits integrate information across systems and developmental stages
 - Improved electrophysiology and analysis methods for human cortical organoids to characterize functional neural networks in health and disease, including how stimulation and psychedelics modulate plasticity

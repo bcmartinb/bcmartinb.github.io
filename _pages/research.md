@@ -55,3 +55,16 @@ Developed a non-invasive method for recording circadian **bioluminescence** from
 - *[Cell-Type-Specific Circadian Bioluminescence Rhythms in Dbp Reporter Mice](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=PNR9T_8AAAAJ&citation_for_view=PNR9T_8AAAAJ:2osOgNQ5qMEC) (2022)*
 
 </div>
+
+<div class="research-card lab-card" markdown="1">
+
+## The Voytek Lab
+
+I'm a member of the [Voytek Lab](https://voyteklab.com/) at UC San Diego, which works on algorithms and data science for neural signals.
+
+<figure>
+  <img src="/assets/images/voytek-lab.jpg" alt="Voytek Lab group photo, fall 2026" loading="lazy">
+  <figcaption>The Voytek Lab, fall 2026</figcaption>
+</figure>
+
+</div>
